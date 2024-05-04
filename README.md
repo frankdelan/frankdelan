@@ -5,7 +5,7 @@
 
 ### About me
 
-- ⚡ I’m currently learning **python, django, fastapi**
+- ⚡ Currently, I'm actively working with **python, django, fastapi**
 - 📫 How to reach me: [email](mailto:frank.danil704@gmail.com), [telegram](https://t.me/frankdelete)
 - ⌚ In my free time: go to the gym, watch movies, read books, play video games
 - 🏢 Will graduate from university in 2024
